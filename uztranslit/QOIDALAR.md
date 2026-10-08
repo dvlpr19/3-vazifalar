@@ -96,4 +96,5 @@ Arab bo'lmagan matn (lotin, kirill, raqamlar) o'zgarmaydi.
   عَبْدُ اللّٰه → "abdu Alloh" (Abdulloh emas). Har bir so'z alohida o'giriladi.
 - **Old qo'shimchalar** (وَ, بِ, لِ, فَ) so'zga qo'shib yozilganda artikl aniqlanmaydi: وَالشَّمْس.
 - Ism va atamalarning o'zbek tilida o'rnashib qolgan shakllari (Abdulloh, Ramazon hayiti, shariat)
-  ba'zan qoidadan farq qiladi: شَرِيعَة → shariʼa (an'anaviy yozilishi — shariat).
+  ba'zan qoidadan farq qiladi: شَرِيعَة → shariʼa (an'anaviy — shariat), عَائِشَة → oʼisha (Oisha),
+  خَدِيجَة → xadija (Xadicha).
