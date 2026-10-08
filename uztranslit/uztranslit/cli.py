@@ -3,18 +3,21 @@
 Ishlatish:
     python -m uztranslit.cli --from kirill "Ўзбекистон"
     python -m uztranslit.cli --from lotin "Oʻzbekiston"
+    python -m uztranslit.cli --from arab "مُحَمَّد"
     python -m uztranslit.cli --from kirill --fayl matn.txt
 """
 
 import argparse
 import sys
 
+from .arab_lotin import arab_lotin
 from .kirill_lotin import kirill_lotin
 from .lotin_kirill import lotin_kirill
 
 OGIRUVCHILAR = {
     "kirill": kirill_lotin,
     "lotin": lotin_kirill,
+    "arab": arab_lotin,
 }
 
 
